@@ -1,0 +1,7 @@
+# 例子二（Qwen 真模型）所需依赖。例子一（sft_vs_rl_demo.py）纯标准库，无需安装。
+torch>=2.2
+transformers>=4.56
+trl>=0.12
+datasets>=2.14
+peft>=0.10
+accelerate>=0.30
